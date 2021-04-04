@@ -1,3 +1,4 @@
 group,replicate,fastq_1,fastq_2,strandedness
 Sample_PM155,1,s3://eipm-organoid-slides/organoids-RNA-Seq/Sample_PM155_Z3_1_RNA_R1.fastq.gz,s3://eipm-organoid-slides/organoids-RNA-Seq/Sample_PM155_Z3_1_RNA_R2.fastq.gz,reverse
 
+
